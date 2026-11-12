@@ -1,0 +1,48 @@
+
+body {
+    background-color: pink;
+    font-family: Arial;
+    text-align: center;
+}
+
+.container {
+    background-color: white;
+    width: 350px;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+h1 {
+    color: #d63384;
+}
+
+label {
+    display: block;
+    margin: 10px;
+}
+
+input {
+    padding: 5px;
+}
+
+.opcoes {
+    text-align: left;
+}
+
+button {
+    background-color: #d63384;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: purple;
+}
+
+#mensagem {
+    color: #d63384;
+}
